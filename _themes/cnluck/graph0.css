@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(sunsepd.gif);
+	list-image-1: url(dian_1a.gif);
+	list-image-2: url(dian_1b.gif);
+	list-image-3: url(dian_1c.gif);
+	nav-banner-image: url(jian_title.gif);
+	navbutton-horiz-normal: url(2_1.gif);
+	navbutton-horiz-hovered: url(sunnavhd.gif);
+	navbutton-horiz-pushed: url(2-2.gif);
+	navbutton-vert-normal: url(2_1.gif);
+	navbutton-vert-hovered: url(sunnavvd.gif);
+	navbutton-vert-pushed: url(2-2.gif);
+	navbutton-home-normal: url(3_2.gif);
+	navbutton-home-hovered: url(sunhomed.gif);
+	navbutton-home-pushed: url(sunhomed.gif);
+	navbutton-next-normal: url(3_4.gif);
+	navbutton-next-hovered: url(sunnextd.gif);
+	navbutton-next-pushed: url(sunnextd.gif);
+	navbutton-prev-normal: url(3_1.gif);
+	navbutton-prev-hovered: url(sunprevd.gif);
+	navbutton-prev-pushed: url(sunprevd.gif);
+	navbutton-up-normal: url(3_3.gif);
+	navbutton-up-hovered: url(sunupd.gif);
+	navbutton-up-pushed: url(sunupd.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Trebuchet MS,Arial,Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 5;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(dian_1a.gif);
+}
+ul ul
+{
+	list-style-image: url(dian_1b.gif);
+}
+ul ul ul
+{
+	list-style-image: url(dian_1c.gif);
+}
