@@ -1,0 +1,248 @@
+0000.000 (0) Opened log file at time: Thu, 23 Jul 2020 03:42:31 +0000 on http://localhost:81
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.4.1 (apache2handler, Windows NT DESKTOP-LH0B5F2 6.2 build 9200 (Windows 8 Home Premium Edition) i586) MySQL: 5.7.24 WPLANG: zh_TW Server: Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.4.1 mod_perl/2.0.8 Perl/v5.16.3 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 38.2M | 6M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 189008.2 MB
+0000.008 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.010 (0) Semaphore (fd, linca_options) being initialised
+0000.014 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.020 (0) Set semaphore last lock (fd) time to 2020-07-23 03:42:31
+0000.021 (0) Semaphore lock (fd) complete
+0000.027 (0) Backup run: resumption=0, nonce=bded9b16532c, file_nonce=bded9b16532c begun at=1595475751 (0s ago), job type=backup
+0000.030 (0) Scheduling a resumption (1) after 300 seconds (1595476051) in case this run gets aborted
+0000.039 (0) Checking if we have a zip executable available
+0000.043 (0) Creation of backups of directories: beginning
+0000.051 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.749 (0) Total entities for the zip file: 323 directories, 2046 files (0 skipped as non-modified), 35.8 MB
+0000.794 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.834 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.873 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.912 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.952 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.954 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (20 MB, 2046 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.518 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 600 files added (on-disk size: 5676 KB)
+0002.556 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 700 files added (on-disk size: 5676 KB)
+0002.593 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 800 files added (on-disk size: 5676 KB)
+0002.631 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 900 files added (on-disk size: 5676 KB)
+0002.669 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1000 files added (on-disk size: 5676 KB)
+0002.672 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 2046 files batched, 501 (1002) added so far); re-opening (prior size: 5676 KB)
+0002.944 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1100 files added (on-disk size: 6378.5 KB)
+0002.983 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1200 files added (on-disk size: 6378.5 KB)
+0003.021 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1300 files added (on-disk size: 6378.5 KB)
+0003.060 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1400 files added (on-disk size: 6378.5 KB)
+0003.097 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1500 files added (on-disk size: 6378.5 KB)
+0003.101 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.2 MB, 2046 files batched, 501 (1503) added so far); re-opening (prior size: 6378.5 KB)
+0003.565 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1600 files added (on-disk size: 7308.5 KB)
+0003.602 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1700 files added (on-disk size: 7308.5 KB)
+0003.640 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1800 files added (on-disk size: 7308.5 KB)
+0003.678 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 1900 files added (on-disk size: 7308.5 KB)
+0003.717 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip.tmp: 2000 files added (on-disk size: 7308.5 KB)
+0003.720 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.5 MB, 2046 files batched, 501 (2004) added so far); re-opening (prior size: 7308.5 KB)
+0007.380 (0) Created plugins zip (0) - 11603.8 KB in 7.3 s (1583.9 KB/s) (sha1: 6088db97856673f95bb3076ffe0a540324dac221, sha256: e5a56309a69f9c39ef7c3d3fe9c6eb239d01e5740388804513494579c06446ce)
+0007.385 (0) Beginning creation of dump of themes (split every: 400 MB)
+0007.684 (0) Total entities for the zip file: 226 directories, 838 files (0 skipped as non-modified), 13.5 MB
+0007.729 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0007.767 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0007.805 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0007.842 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0007.878 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0007.881 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.3 MB, 838 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0008.352 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip.tmp: 600 files added (on-disk size: 1793.8 KB)
+0008.390 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip.tmp: 700 files added (on-disk size: 1793.8 KB)
+0008.427 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip.tmp: 800 files added (on-disk size: 1793.8 KB)
+0008.857 (0) Created themes zip (0) - 6552.2 KB in 1.5 s (4458.1 KB/s) (sha1: 815d5acd4e16c9995681620a756094a8eb36b56e, sha256: e1424a1182b30fba265b27b2508281d10e90a9f8e9758d0694c762734427d170)
+0008.862 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0008.864 (0) Looking for candidates to backup in: C:\linca/wp-content/uploads
+0008.865 (0) finding files: 2020: adding to list (1)
+0008.867 (0) finding files: kirki-css: adding to list (2)
+0008.869 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0009.001 (0) Total entities for the zip file: 3 directories, 483 files (0 skipped as non-modified), 56.5 MB
+0009.046 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0009.083 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0009.110 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 483 files batched, 276 (276) added so far); re-opening (prior size: 0 KB)
+0009.235 (0) A useful amount of data was added after this amount of zip processing: 0.8 s (normalised: 0.8 s, rate: 32009.2 KB/s)
+0009.238 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.80196094512939, normalised_time=0.79976882972894, max_time=9.2360570430756, data points known=1, old_max_bytes=26214400, new_max_bytes=196664828)
+0009.250 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-uploads.zip.tmp: 300 files added (on-disk size: 25716.5 KB)
+0009.288 (0) Zip: backup_2020-07-23-1142_localhost_bded9b16532c-uploads.zip.tmp: 400 files added (on-disk size: 25716.5 KB)
+0010.384 (0) Created uploads zip (0) - 57649 KB in 1.5 s (38099.3 KB/s) (sha1: ff5f6259e82a144074939e242eef5394706bbc42, sha256: c39bcaa5f8ede1b4072c9a958102f50e8f3f15971cc9fa62e82998ff302dbab8)
+0010.391 (0) Beginning backup of other directories found in the content directory (index: 0)
+0010.394 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0010.396 (0) Looking for candidates to backup in: C:\linca/wp-content
+0010.399 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0010.401 (0) finding files: index.php: adding to list (1)
+0010.403 (0) finding files: languages: adding to list (2)
+0010.405 (0) finding files: plugins: skipping: this is the plugins directory
+0010.407 (0) finding files: themes: skipping: this is the themes directory
+0010.408 (0) finding files: updraft: skipping: this is the updraft directory
+0010.410 (0) finding files: upgrade: skipping: excluded by options
+0010.412 (0) finding files: uploads: skipping: this is the uploads directory
+0010.414 (0) finding files: wflogs: adding to list (3)
+0010.443 (0) Total entities for the zip file: 4 directories, 48 files (0 skipped as non-modified), 7.6 MB
+0013.466 (0) Created others zip (0) - 3107.6 KB in 3 s (1019.9 KB/s) (sha1: bd1ec1bd5f3d8250161c425bce86685002dd9398, sha256: 35b0421fea10204e2f5dda2e178447ddbd0d6ba95ef1766952d8a3b798f2973b)
+0013.474 (0) Saving backup status to database (elements: 8)
+0013.477 (0) Beginning creation of database dump (WordPress DB)
+0013.495 (0) Table linca_options: Total expected rows (approximate): 227
+0013.524 (0) Table linca_options: Rows added in this batch (start page: 0; next: finished): 229 in 0.03 seconds
+0013.531 (0) Table linca_options: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_options.table.gz - 140 KB)
+0013.539 (0) Table linca_users: Total expected rows (approximate): 0
+0013.542 (0) Table linca_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0013.547 (0) Table linca_users: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_users.table.gz - 0.6 KB)
+0013.556 (0) Table linca_usermeta: Total expected rows (approximate): 26
+0013.559 (0) Table linca_usermeta: Rows added in this batch (start page: 0; next: finished): 27 in 0.00 seconds
+0013.565 (0) Table linca_usermeta: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_usermeta.table.gz - 1.2 KB)
+0013.576 (0) Table linca_commentmeta: Total expected rows (approximate): 0
+0013.578 (0) Table linca_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.584 (0) Table linca_commentmeta: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_commentmeta.table.gz - 0.4 KB)
+0013.603 (0) Table linca_comments: Total expected rows (approximate): 0
+0013.606 (0) Table linca_comments: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0013.611 (0) Table linca_comments: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_comments.table.gz - 0.9 KB)
+0013.620 (0) Table linca_links: Total expected rows (approximate): 0
+0013.623 (0) Table linca_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.628 (0) Table linca_links: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_links.table.gz - 0.4 KB)
+0013.637 (0) Table linca_postmeta: Total expected rows (approximate): 469
+0013.645 (0) Table linca_postmeta: Rows added in this batch (start page: 0; next: finished): 507 in 0.01 seconds
+0013.652 (0) Table linca_postmeta: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_postmeta.table.gz - 12.3 KB)
+0013.660 (0) Table linca_posts: Total expected rows (approximate): 222
+0013.674 (0) Table linca_posts: Rows added in this batch (start page: 0; next: finished): 227 in 0.01 seconds
+0013.681 (0) Table linca_posts: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_posts.table.gz - 32.6 KB)
+0013.689 (0) Table linca_term_relationships: Total expected rows (approximate): 7
+0013.692 (0) Table linca_term_relationships: Rows added in this batch (start page: 0; next: finished): 8 in 0.00 seconds
+0013.697 (0) Table linca_term_relationships: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_term_relationships.table.gz - 0.4 KB)
+0013.706 (0) Table linca_term_taxonomy: Total expected rows (approximate): 1
+0013.709 (0) Table linca_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0013.714 (0) Table linca_term_taxonomy: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_term_taxonomy.table.gz - 0.4 KB)
+0013.722 (0) Table linca_termmeta: Total expected rows (approximate): 0
+0013.725 (0) Table linca_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.730 (0) Table linca_termmeta: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_termmeta.table.gz - 0.4 KB)
+0013.739 (0) Table linca_terms: Total expected rows (approximate): 2
+0013.742 (0) Table linca_terms: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0013.747 (0) Table linca_terms: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_terms.table.gz - 0.5 KB)
+0013.755 (0) Table linca_wfblockediplog: Total expected rows (approximate): 0
+0013.758 (0) Table linca_wfblockediplog: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.763 (0) Table linca_wfblockediplog: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfblockediplog.table.gz - 0.3 KB)
+0013.771 (0) Table linca_wfblocks7: Total expected rows (approximate): 0
+0013.773 (0) Table linca_wfblocks7: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.779 (0) Table linca_wfblocks7: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfblocks7.table.gz - 0.4 KB)
+0013.787 (0) Table linca_wfconfig: Total expected rows (approximate): 224
+0013.796 (0) Table linca_wfconfig: Rows added in this batch (start page: 0; next: finished): 240 in 0.01 seconds
+0013.803 (0) Table linca_wfconfig: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfconfig.table.gz - 17.8 KB)
+0013.812 (0) Table linca_wfcrawlers: Total expected rows (approximate): 0
+0013.815 (0) Table linca_wfcrawlers: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.820 (0) Table linca_wfcrawlers: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfcrawlers.table.gz - 0.3 KB)
+0013.828 (0) Table linca_wffilechanges: Total expected rows (approximate): 0
+0013.830 (0) Table linca_wffilechanges: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.836 (0) Table linca_wffilechanges: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wffilechanges.table.gz - 0.3 KB)
+0013.845 (0) Table linca_wffilemods: Total expected rows (approximate): 0
+0013.847 (0) Table linca_wffilemods: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.853 (0) Table linca_wffilemods: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wffilemods.table.gz - 0.4 KB)
+0013.861 (0) Table linca_wfhits: Total expected rows (approximate): 0
+0013.863 (0) Table linca_wfhits: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0013.870 (0) Table linca_wfhits: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfhits.table.gz - 0.7 KB)
+0013.879 (0) Table linca_wfhoover: Total expected rows (approximate): 0
+0013.881 (0) Table linca_wfhoover: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.887 (0) Table linca_wfhoover: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfhoover.table.gz - 0.3 KB)
+0013.895 (0) Table linca_wfissues: Total expected rows (approximate): 0
+0013.897 (0) Table linca_wfissues: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.904 (0) Table linca_wfissues: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfissues.table.gz - 0.4 KB)
+0013.911 (0) Table linca_wfknownfilelist: Total expected rows (approximate): 0
+0013.913 (0) Table linca_wfknownfilelist: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.920 (0) Table linca_wfknownfilelist: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfknownfilelist.table.gz - 0.3 KB)
+0013.928 (0) Table linca_wflivetraffichuman: Total expected rows (approximate): 0
+0013.930 (0) Table linca_wflivetraffichuman: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.937 (0) Table linca_wflivetraffichuman: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wflivetraffichuman.table.gz - 0.3 KB)
+0013.945 (0) Table linca_wflocs: Total expected rows (approximate): 0
+0013.948 (0) Table linca_wflocs: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0013.954 (0) Table linca_wflocs: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wflocs.table.gz - 0.4 KB)
+0013.962 (0) Table linca_wflogins: Total expected rows (approximate): 0
+0013.964 (0) Table linca_wflogins: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0013.970 (0) Table linca_wflogins: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wflogins.table.gz - 0.6 KB)
+0013.978 (0) Table linca_wfls_2fa_secrets: Total expected rows (approximate): 0
+0013.981 (0) Table linca_wfls_2fa_secrets: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0013.987 (0) Table linca_wfls_2fa_secrets: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfls_2fa_secrets.table.gz - 0.4 KB)
+0013.995 (0) Table linca_wfls_settings: Total expected rows (approximate): 17
+0013.998 (0) Table linca_wfls_settings: Rows added in this batch (start page: 0; next: finished): 19 in 0.00 seconds
+0014.004 (0) Table linca_wfls_settings: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfls_settings.table.gz - 0.8 KB)
+0014.012 (0) Table linca_wfnotifications: Total expected rows (approximate): 0
+0014.014 (0) Table linca_wfnotifications: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0014.020 (0) Table linca_wfnotifications: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfnotifications.table.gz - 0.3 KB)
+0014.027 (0) Table linca_wfpendingissues: Total expected rows (approximate): 0
+0014.030 (0) Table linca_wfpendingissues: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0014.037 (0) Table linca_wfpendingissues: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfpendingissues.table.gz - 0.4 KB)
+0014.050 (0) Table linca_wfreversecache: Total expected rows (approximate): 0
+0014.054 (0) Table linca_wfreversecache: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0014.062 (0) Table linca_wfreversecache: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfreversecache.table.gz - 0.4 KB)
+0014.072 (0) Table linca_wfsnipcache: Total expected rows (approximate): 0
+0014.074 (0) Table linca_wfsnipcache: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0014.081 (0) Table linca_wfsnipcache: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfsnipcache.table.gz - 0.4 KB)
+0014.090 (0) Table linca_wfstatus: Total expected rows (approximate): 10
+0014.094 (0) Table linca_wfstatus: Rows added in this batch (start page: 0; next: finished): 10 in 0.00 seconds
+0014.100 (0) Table linca_wfstatus: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfstatus.table.gz - 0.7 KB)
+0014.110 (0) Table linca_wftrafficrates: Total expected rows (approximate): 0
+0014.112 (0) Table linca_wftrafficrates: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0014.119 (0) Table linca_wftrafficrates: finishing file (backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wftrafficrates.table.gz - 0.3 KB)
+0014.125 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_options.table.gz (1/33): adding to final database dump
+0014.155 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_users.table.gz (2/33): adding to final database dump
+0014.157 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_usermeta.table.gz (3/33): adding to final database dump
+0014.160 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_commentmeta.table.gz (4/33): adding to final database dump
+0014.162 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_comments.table.gz (5/33): adding to final database dump
+0014.163 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_links.table.gz (6/33): adding to final database dump
+0014.165 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_postmeta.table.gz (7/33): adding to final database dump
+0014.170 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_posts.table.gz (8/33): adding to final database dump
+0014.176 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_term_relationships.table.gz (9/33): adding to final database dump
+0014.178 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_term_taxonomy.table.gz (10/33): adding to final database dump
+0014.180 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_termmeta.table.gz (11/33): adding to final database dump
+0014.182 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_terms.table.gz (12/33): adding to final database dump
+0014.183 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfblockediplog.table.gz (13/33): adding to final database dump
+0014.185 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfblocks7.table.gz (14/33): adding to final database dump
+0014.187 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfconfig.table.gz (15/33): adding to final database dump
+0014.194 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfcrawlers.table.gz (16/33): adding to final database dump
+0014.196 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wffilechanges.table.gz (17/33): adding to final database dump
+0014.198 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wffilemods.table.gz (18/33): adding to final database dump
+0014.200 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfhits.table.gz (19/33): adding to final database dump
+0014.202 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfhoover.table.gz (20/33): adding to final database dump
+0014.204 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfissues.table.gz (21/33): adding to final database dump
+0014.206 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfknownfilelist.table.gz (22/33): adding to final database dump
+0014.207 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wflivetraffichuman.table.gz (23/33): adding to final database dump
+0014.209 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wflocs.table.gz (24/33): adding to final database dump
+0014.211 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wflogins.table.gz (25/33): adding to final database dump
+0014.212 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfls_2fa_secrets.table.gz (26/33): adding to final database dump
+0014.214 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfls_settings.table.gz (27/33): adding to final database dump
+0014.216 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfnotifications.table.gz (28/33): adding to final database dump
+0014.218 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfpendingissues.table.gz (29/33): adding to final database dump
+0014.220 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfreversecache.table.gz (30/33): adding to final database dump
+0014.222 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfsnipcache.table.gz (31/33): adding to final database dump
+0014.223 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wfstatus.table.gz (32/33): adding to final database dump
+0014.225 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db-table-linca_wftrafficrates.table.gz (33/33): adding to final database dump
+0014.251 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db.gz: finished writing out complete database file (184 KB)
+0014.269 (0) Total database tables backed up: 33 (backup_2020-07-23-1142_localhost_bded9b16532c-db.gz, size: 213677, sha1: d4b60190718b722acf97a441f65a4e319371941c, sha256: 02e44d9791183a3da8834d6d4ebe4f75f22fa2b5e968952362dddd574fb13f7f)
+0014.276 (0) backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0014.278 (0) backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0014.280 (0) backup_2020-07-23-1142_localhost_bded9b16532c-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0014.281 (0) backup_2020-07-23-1142_localhost_bded9b16532c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0014.283 (0) backup_2020-07-23-1142_localhost_bded9b16532c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0014.284 (0) Saving backup history. Total backup size: 77.3 MB
+0014.288 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0014.293 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0014.294 (0) No remote despatch: user chose no remote backup service
+0014.296 (0) Recording as successfully uploaded: backup_2020-07-23-1142_localhost_bded9b16532c-plugins.zip
+0014.299 (0) Recording as successfully uploaded: backup_2020-07-23-1142_localhost_bded9b16532c-themes.zip
+0014.303 (0) Recording as successfully uploaded: backup_2020-07-23-1142_localhost_bded9b16532c-uploads.zip
+0014.307 (0) Recording as successfully uploaded: backup_2020-07-23-1142_localhost_bded9b16532c-others.zip
+0014.310 (0) Recording as successfully uploaded: backup_2020-07-23-1142_localhost_bded9b16532c-db.gz
+0014.316 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0014.318 (0) Number of backup sets in history: 1; groups (db): 1
+0014.319 (0) Examining (for databases) backup set with group_id=0, nonce=bded9b16532c, datestamp=1595475751 (Jul 23 2020 03:42:31)
+0014.321 (0) This backup set is the backup set just made, so will not be deleted.
+0014.321 (0) Number of backup sets in history: 1; groups (files): 1
+0014.323 (0) Examining (for files) backup set with nonce=bded9b16532c, datestamp=1595475751 (Jul 23 2020 03:42:31)
+0014.323 (0) This backup set is the backup set just made, so will not be deleted.
+0014.325 (0) This backup set is the backup set just made, so will not be deleted.
+0014.325 (0) This backup set is the backup set just made, so will not be deleted.
+0014.325 (0) This backup set is the backup set just made, so will not be deleted.
+0014.325 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0014.326 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0014.330 (0) Resume backup (bded9b16532c, 0): finish run
+0014.334 (0) Decremented the semaphore (fd) by 1
+0014.338 (0) Semaphore (fd) unlocked
+0014.339 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0014.344 (0) The backup apparently succeeded and is now complete
+0014.345 (0) No email will/can be sent - the user has not configured an email address.
+0014.347 (0) 備份工作已完成
